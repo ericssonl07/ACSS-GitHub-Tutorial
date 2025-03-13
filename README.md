@@ -1,4 +1,5 @@
 # README
 
-Thursday, March 13th- 10:59:30 a.m.
-First commit.
+Thursday, March 13th- 11:03:36 a.m.
+
+First commit, modified to make auto-merging impossible.
